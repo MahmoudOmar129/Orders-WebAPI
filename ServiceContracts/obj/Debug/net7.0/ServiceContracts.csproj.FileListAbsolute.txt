@@ -1,0 +1,15 @@
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\bin\Debug\net7.0\ServiceContracts.deps.json
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\bin\Debug\net7.0\ServiceContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\bin\Debug\net7.0\ServiceContracts.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\bin\Debug\net7.0\Entities.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\bin\Debug\net7.0\Entities.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.AssemblyReference.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.AssemblyInfo.cs
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.csproj.CopyComplete
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\refint\ServiceContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ServiceContracts.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\ServiceContracts\obj\Debug\net7.0\ref\ServiceContracts.dll

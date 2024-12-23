@@ -1,0 +1,15 @@
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\bin\Debug\net7.0\RepositoryContracts.deps.json
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\bin\Debug\net7.0\RepositoryContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\bin\Debug\net7.0\RepositoryContracts.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\bin\Debug\net7.0\Entities.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\bin\Debug\net7.0\Entities.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.csproj.AssemblyReference.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.AssemblyInfoInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.AssemblyInfo.cs
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.csproj.CoreCompileInputs.cache
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.csproj.CopyComplete
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\refint\RepositoryContracts.dll
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\RepositoryContracts.pdb
+D:\MyWork\BackEnd\.Net core Source Code\AspNetCore-Harsha-main\Assignment Solutions\23. Section 26 - Web API\RepositoryContracts\obj\Debug\net7.0\ref\RepositoryContracts.dll
